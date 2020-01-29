@@ -1,0 +1,14 @@
+{
+  "spec": [
+    "./tests/themes/themes.spec.ts",
+    "./tests/themes/themes.textobject.spec.ts",
+    "./tests/themes/themes.objects.spec.ts",
+    "./tests/themes/themes.button.spec.ts",
+    "./tests/themes/themes.cart.spec.ts",
+    "./tests/themes/themes.media.spec.ts",
+    "./tests/themes/themes.dropdown.spec.ts",
+    "./tests/themes/themes.line.spec.ts",
+    "./tests/themes/themes.product.spec.ts",
+    "./tests/themes/themes.shapes.spec.ts"
+  ]
+}
